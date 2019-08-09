@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Hello world</h1>
+        <a href="https://www.facebook.com/nangam.xuakia">Profile</a>
         <?php
         // put your code here
         ?>
