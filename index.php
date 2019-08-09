@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <h1>Hello world</h1>
         <a href="https://www.facebook.com/nangam.xuakia">Profile</a>
-        <a href="shop.php">Shop</a>
+        <a href="single.php">Shop</a>
         <?php
         // put your code here
         ?>
