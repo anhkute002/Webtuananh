@@ -14,6 +14,7 @@ and open the template in the editor.
         <a href="https://www.facebook.com/nangam.xuakia">Profile</a>
         <a href="shop.php">Shop</a>
         <a href="InsertData.php">InsertData</a>
+        <a href="DeleteData.php">DeleteData</a>
         <?php
         // put your code here
         ?>
