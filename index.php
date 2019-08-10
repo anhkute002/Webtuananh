@@ -15,6 +15,7 @@ and open the template in the editor.
         <a href="shop.php">Shop</a>
         <a href="InsertData.php">InsertData</a>
         <a href="DeleteData.php">DeleteData</a>
+        <a href="UpdateData.php">UpdateData</a>
         <?php
         // put your code here
         ?>
