@@ -108,3 +108,10 @@ p,th,tr,h1,li,h2{
   color: white;
   font-weight: bold
 }
+button.btn.btn-info{
+  background-color:#ffffff;
+  border-color: #ffffff;
+}
+a.myButton.pl-3{
+  color:#ffffff;
+}
