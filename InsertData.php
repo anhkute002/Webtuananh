@@ -37,7 +37,7 @@
     <div class="row justify-content-center">
         <div class="col-9">
             <h1>INSERT DATA TO DATABASE</h1>
-            <h2>Enter data into student table</h2>
+            <h2>Enter data into below table</h2>
             <ul>
                 <form name="InsertData" action="InsertData.php" method="POST">
                     <li>ID:</li>
