@@ -33,12 +33,12 @@ button{
 }
 
 .social_icon span:hover{
-  color: white;
+  color: black;
   cursor: pointer;
 }
 
 .card-header h3{
-  color: white;
+  color: black;
 }
 
 .social_icon{
@@ -61,7 +61,7 @@ input:focus{
 }
 
 .remember{
-  color: white;
+  color: black;
 }
 
 .remember input
@@ -73,18 +73,18 @@ input:focus{
 }
 
 .login_btn{
-  color: white;
+  color: black;
   background-color: #FFC312;
   width: 100px;
 }
 
 .login_btn:hover{
-  color: white;
+  color: black;
   background-color: white;
 }
 
 .links{
-  color: white;
+  color: black;
 }
 
 .links a{
@@ -92,11 +92,11 @@ input:focus{
 }
 
 a{
-  color: white;
+  color: black;
 }
 
 a:hover{
-  color: white;
+  color: black;
   font-weight: bold;
 }
 
@@ -105,6 +105,6 @@ button{
 }
 
 p,th,tr,h1,li,h2{
-  color: white;
+  color: black;
   font-weight: bold
 }
