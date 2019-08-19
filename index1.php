@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Database Test</title>
+	<title>ATN Login</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 	<link rel="stylesheet" href="style.css">
@@ -12,7 +12,7 @@
 				<div class="d-flex justify-content-center h-100">
 					<div class="card">
 						<div class="card-header">
-							<h3>Sign In</h3>
+							<h3>ATN STORE</h3>
 							<div class="d-flex justify-content-end social_icon">
 								<a href="https://www.facebook.com/ngocthanh.tran.3954"><span><i class="fab fa-facebook-square"></i></span></a>
 								<a href="https://www.gmail.com"><span><i class="fab fa-google-plus-square"></i></span></a>
