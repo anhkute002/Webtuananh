@@ -62,7 +62,7 @@
     </div>
     <?php
 
-    $pdo = new PDO("pgsql:dbname=d6h89lsnl3a8d4;host=ec2-107-22-238-217.compute-1.amazonaws.com","vpfgbbzvnyifkc", "987a9247716d140d93d1fbec9ca96c2715d76597779e58c0cc4e8871688c1364" );
+    $pdo = new PDO("pgsql:dbname=dcqr76jlvrn6b6;host=ec2-50-19-222-129.compute-1.amazonaws.com","mnyhjyobzgfjiy", "dbe76233bc0228c6f84701882d826b68f82485d49017dad9666b2b7a0bd11420" );
 
     if ($pdo === false) {
       echo "ERROR: Could not connect Database";
