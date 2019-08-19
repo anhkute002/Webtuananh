@@ -8,7 +8,7 @@
 <body>
     <div class="row justify-content-center">
             <div class="col-9">
-              <h1>Ngoc Thanh</h1>
+              <h1>Tuan Anh</h1>
 
               <?php
                ini_set('display_errors', 1);
