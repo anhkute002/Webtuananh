@@ -68,7 +68,7 @@
       echo "ERROR: Could not connect Database";
     }
     $sql = 'INSERT INTO Supplier("Supplier_ID", "Supplier_Name","Supplier_Address", "Supplier_Phone")'
-        . ' VALUES(:id,:name,:address,:phone)';
+        . ' VALUES('id','name','address','phone')';
         //'$_POST[id]','$_POST[name]','$_POST[address]','$_POST[phone]'
     $stmt = $pdo->prepare($sql);
     $stmt->bindParam(':id', $_POST[id]);
