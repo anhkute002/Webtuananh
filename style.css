@@ -50,7 +50,7 @@ button{
 .input-group-prepend span{
   width: 50px;
   background-color: #0078D7;
-  color: black;
+  color: white;
   border:0 !important;
 }
 
@@ -61,7 +61,7 @@ input:focus{
 }
 
 .remember{
-  color: black;
+  color: white;
 }
 
 .remember input
@@ -73,18 +73,18 @@ input:focus{
 }
 
 .login_btn{
-  color: black;
+  color: white
   background-color: #0078D7;
   width: 100px;
 }
 
 .login_btn:hover{
-  color: black;
+  color: white;
   background-color: white;
 }
 
 .links{
-  color: black;
+  color: white;
 }
 
 .links a{
@@ -92,11 +92,11 @@ input:focus{
 }
 
 a{
-  color: black;
+  color: white;
 }
 
 a:hover{
-  color: black;
+  color: white;
   font-weight: bold;
 }
 
@@ -105,6 +105,6 @@ button{
 }
 
 p,th,tr,h1,li,h2{
-  color: black;
+  color: white;
   font-weight: bold
 }
