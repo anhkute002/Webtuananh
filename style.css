@@ -115,3 +115,11 @@ button.btn.btn-info{
 a.myButton.pl-3{
   color:black;
 }
+button.btn.btn-warning{
+  background-color:#ffffff;
+  border-color: #ffffff;
+}
+button.btn.btn-danger{
+  background-color:#ffffff;
+  border-color: #ffffff;
+}
