@@ -13,9 +13,6 @@ and open the template in the editor.
         <h1>Hello world</h1>
         <a href="https://www.facebook.com/nangam.xuakia">Profile</a>
         <a href="shop.php">Shop</a>
-        <a href="InsertData.php">InsertData</a>
-        <a href="DeleteData.php">DeleteData</a>
-        <a href="UpdateData.php">UpdateData</a>
         <?php
         // put your code here
         ?>

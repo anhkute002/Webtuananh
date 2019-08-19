@@ -239,7 +239,7 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 						  </div>
 						</div>
 			    </li>
-				<li><a class="color4" href="login.php">Login</a></li>				
+				<li><a class="color4" href="index1.php">Login</a></li>				
 				<li><a class="color6" href="contact.html">Contact</a></li>
 			  </ul> 
 			</div>
